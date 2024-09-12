@@ -64,4 +64,8 @@ Open a pull request to the main repository.
 Run `npm test` to execute the tests for shape rendering.
 
 ### Walkthrough on how to use the page:
+
 ![Generator Walkthrough](assets/screenshot.mp4)
+
+![Link to walktthrough video:] https://drive.google.com/file/d/1F4qo8aSYvBrOKp5y9VSK1E4d1OBoUTyt/view
+
