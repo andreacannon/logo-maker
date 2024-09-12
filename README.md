@@ -9,6 +9,7 @@
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Walkthrough](#Walkthrough on how to use the page)
 
 ## Description
 The Logo Generator is a command-line application that allows developers to quickly create a logo for their projects. By guiding users through a series of prompts, this tool generates a simple SVG logo based on user input. Users can choose a shape, specify colors, and enter text. The logo is saved as `logo.svg`.
@@ -61,3 +62,6 @@ Open a pull request to the main repository.
 
 ## Tests
 Run `npm test` to execute the tests for shape rendering.
+
+### Walkthrough on how to use the page:
+![Generator Walkthrough](assets/screenshot.mp4)
